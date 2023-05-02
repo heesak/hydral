@@ -1,0 +1,19 @@
+:root{
+    --primary-color:#302c42;
+    --text-color:linear-gradient(91.57deg, #C0B7E8 -1.02%, #8176AF 36.25%);
+
+    --button-color:linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    --radial-gradient:radial-gradient(50% 2900.76% at 50% 53.89%, rgba(58, 52, 86, 0.95) 0%, #211E2E 100%);
+    --faded--background: rgba(14, 14, 14, 0.32);
+    --circle-gradient:linear-gradient(267.61deg, #C0B7E8 -0.6%, #8176AF 98.31%);
+    ---gradient-text-color:linear-gradient(91.57deg, #C0B7E8 -1.02%, #8176AF 36.25%);
+    --white-text-color:rgb(255, 255, 255);
+    --faded-hero:rgba(0, 0, 0, 0.13);
+    --submit-color-for-text:#343045;
+    
+    --radial-cate-color: radial-gradient(50% 50% at 50% 50%, #433D60 0%, #211E2E 100%);
+    /* --icon-color:; */
+    
+    --background: linear-gradient(267.61deg, #C0B7E8 -0.6%, #8176AF 98.31%);
+
+}
